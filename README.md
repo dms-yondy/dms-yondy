@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, Hola and Bonjour 👋
+
+My name is Yondy and I am a software developer from the UK.
+
 
 <!--
 **dms-yondy/dms-yondy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
